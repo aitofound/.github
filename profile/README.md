@@ -16,4 +16,4 @@ Our belief is simple: **AI advances science, and science advances AI.** We build
 
 Researchers, engineers, students, and domain experts are welcome to contribute.
 
-🌐 [aitonomy.org](https://aitonomy.org)
+🌐 [aitonomy.org](https://aitonomy.org) · ✉️ [team@aitonomy.org](mailto:team@aitonomy.org)
